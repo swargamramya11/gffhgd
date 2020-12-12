@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestRunners_Firefox.DeleteFromCart_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Firefox.DeleteFromCart_Runner -->
+      <class name="TestRunners_Chrome.AboutLink_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Chrome.AboutLink_Runner -->
+      <class name="TestRunners_Chrome.DeleteFromCart_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Chrome.DeleteFromCart_Runner -->
+      <class name="TestRunners_Firefox.Login_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Firefox.Login_Runner -->
+      <class name="TestRunners_Firefox.AboutLink_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Firefox.AboutLink_Runner -->
+      <class name="TestRunners_Firefox.AddToCart_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Firefox.AddToCart_Runner -->
+      <class name="TestRunners_Chrome.AddToCart_Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunners_Chrome.AddToCart_Runner -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

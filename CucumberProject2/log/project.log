@@ -1,0 +1,30 @@
+06/04/2020 15:09:08 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:09:33 devpinoyLogger ScreenShot taken in name of validLoginChrome
+06/04/2020 15:09:33 devpinoyLogger valid login is successfull
+06/04/2020 15:09:47 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:09:54 devpinoyLogger ScreenShot taken in name of invalidLoginChrome
+06/04/2020 15:09:54 devpinoyLogger ******Invalid login******
+06/04/2020 15:10:02 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:10:09 devpinoyLogger ScreenShot taken in name of invalidLoginChrome
+06/04/2020 15:10:09 devpinoyLogger ******Invalid login******
+06/04/2020 15:10:16 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:10:24 devpinoyLogger ScreenShot taken in name of blankLoginChrome
+06/04/2020 15:10:24 devpinoyLogger ******Manditory fields left blank******
+06/04/2020 15:10:31 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:10:38 devpinoyLogger ScreenShot taken in name of blankLoginChrome
+06/04/2020 15:10:38 devpinoyLogger ******Manditory fields left blank******
+06/04/2020 15:10:45 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:11:03 devpinoyLogger ScreenShot taken in name of validLoginChrome
+06/04/2020 15:11:03 devpinoyLogger valid login is successfull
+06/04/2020 15:11:04 devpinoyLogger ScreenShot taken in name of addToCartChrome
+06/04/2020 15:11:04 devpinoyLogger ******Products are added to cart******
+06/04/2020 15:11:13 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:11:30 devpinoyLogger ScreenShot taken in name of validLoginChrome
+06/04/2020 15:11:30 devpinoyLogger valid login is successfull
+06/04/2020 15:11:32 devpinoyLogger ScreenShot taken in name of deleteFromCartChrome
+06/04/2020 15:11:32 devpinoyLogger ******Products are deleted from cart******
+06/04/2020 15:11:40 devpinoyLogger ******Chrome browser Successfully Launched******
+06/04/2020 15:12:05 devpinoyLogger ScreenShot taken in name of validLoginChrome
+06/04/2020 15:12:05 devpinoyLogger valid login is successfull
+06/04/2020 15:12:15 devpinoyLogger ScreenShot taken in name of aboutPageChrome
+06/04/2020 15:12:15 devpinoyLogger *****About page******
